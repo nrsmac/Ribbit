@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/nrsmac/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/nrsmac/AndroidStudioProjects/Ribbit/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-205423c2616893a3ecc92353ea50911029e96ca6.jar" />
+    </item>
+    <item
+        jar="/Users/nrsmac/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/nrsmac/AndroidStudioProjects/Ribbit/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-09de82824d051226417c405fe27c33f00bfb2a2a.jar" />
+    </item>
+    <item
+        jar="/Users/nrsmac/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.0/7ff0e000d1e27e356567f56c92af3b8ab912636f/picasso-2.5.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff0e000d1e27e356567f56c92af3b8ab912636f">
+        <dex dex="/Users/nrsmac/AndroidStudioProjects/Ribbit/app/build/intermediates/pre-dexed/debug/picasso-2.5.0-4cedf924f8675a384cf2f30f2e696fb8053a1391.jar" />
+    </item>
+    <item
+        jar="/Users/nrsmac/AndroidStudioProjects/Ribbit/app/libs/commons-io-2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/nrsmac/AndroidStudioProjects/Ribbit/app/build/intermediates/pre-dexed/debug/commons-io-2.4-f717ae68d73a0b74bf446e56fa19af5e1e49808e.jar" />
+    </item>
+    <item
+        jar="/Users/nrsmac/AndroidStudioProjects/Ribbit/app/libs/Parse-1.8.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c2cb0bfe37cbefd855b6faa3c9a5be833aba7300">
+        <dex dex="/Users/nrsmac/AndroidStudioProjects/Ribbit/app/build/intermediates/pre-dexed/debug/Parse-1.8.2-db3d02a608ecf3ac08eff440755c56c289e38121.jar" />
+    </item>
+
+</items>
