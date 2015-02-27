@@ -13,9 +13,6 @@ import android.widget.ProgressBar;
 import com.nrsmac.ribbit.R;
 import com.squareup.picasso.Picasso;
 
-import java.util.Timer;
-import java.util.TimerTask;
-
 public class ViewImageActivity extends Activity {
 
     protected ProgressBar mProgressBar;
@@ -40,13 +37,7 @@ public class ViewImageActivity extends Activity {
         Picasso.with(this).load(imageUri.toString()).into(imageView);
         mProgressBar.setVisibility(View.INVISIBLE);
 
-        Timer timer = new Timer();
-        timer.schedule(new TimerTask() {
-            @Override
-            public void run() {
-                finish();
-            }
-        }, 10*1000);
+
     }
 
     /**
